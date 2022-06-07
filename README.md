@@ -37,6 +37,7 @@ python笔记
 * [BeautifulSoup: xml&html parser](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [OpenCV-Python实战（1）——OpenCV简介与图像处理基础](https://blog.csdn.net/LOVEmy134611/article/details/119489496?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164990801916780271536037%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164990801916780271536037&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-119489496.142^v7^pc_search_result_cache,157^v4^control&utm_term=opencv&spm=1018.2226.3001.4187)
 * [pyinstaller](http://www.pyinstaller.org/)
+* [nuitka](https://nuitka.net/) <u><sup>[☞github](https://github.com/Nuitka/Nuitka)</sup></u>
 * [removebg:快速AI自动抠图](https://www.remove.bg/zh)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick)
 * [日志记录](https://github.com/Delgan/loguru)
